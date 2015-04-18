@@ -24,3 +24,8 @@ UpgradeLog.*
 
 # dotCover
 *.dotCover
+
+Packages/
+
+#Ignore generated nupkg files
+*.nupkg
